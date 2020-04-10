@@ -14,6 +14,10 @@
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/rbritox/GoStack-Challenge02-ReactJsConcepts">
   
   <img alt="GitHub code size in bytes" src="https://img.shields.io/github/repo-size/rbritox/GoStack-Challenge02-ReactJsConcepts">
+  
+  <img alt="GitHub language count" src="https://img.shields.io/badge/Node.js-v12.16.1-blue?style=flat&logo=node.js">
+  
+  <img alt="GitHub language count" src="https://img.shields.io/badge/React.js-v16.13.1-blue?style=flat&logo=react">
 
   <img alt="GitHub code size in bytes" src="https://img.shields.io/codacy/grade/23c95cbb62f947289d85160741cdf805">
 
